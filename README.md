@@ -1,4 +1,4 @@
-This repository contains the following from class:
+This repository contains the following from a class titled "Document Analysis Steps with Jupyter Lab" offered by [NCI CCR BTEP](https://bioinformatics.ccr.cancer.gov/btep/) on September 24, 2024.
 
 * Example Jupyter Notebook (jupyter_class.ipynb)
 * Data files
@@ -11,4 +11,4 @@ This repository contains the following from class:
   * jupyter_4.png
   * jupyter_5.png
 
-Click on the green button labeled "<> Code" and then "Download ZIP" to get this onto personal computer. Unzip the file, change into it, start Jupyter Lab and you are ready to explore on your own!
+Click on the green button labeled "<> Code" and then "Download ZIP" to get the contents as a zipped folder onto personal computer. Unzip the folder, change into it, start Jupyter Lab and you are ready to explore on your own!
