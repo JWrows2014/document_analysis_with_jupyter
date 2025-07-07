@@ -1,1 +1,0 @@
-<iframe class="slideshow" src="../jupyter_class_slides.html" frameborder=0 width="600" height="350"></iframe>
