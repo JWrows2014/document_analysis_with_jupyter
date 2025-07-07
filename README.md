@@ -1,4 +1,4 @@
-This repository contains the following from a class titled "Document Analysis Steps with Jupyter Lab" offered by [NCI CCR BTEP](https://bioinformatics.ccr.cancer.gov/btep/) on September 24, 2024.
+This repository contains the following from a class titled "Document Analysis Steps with Jupyter Lab" offered by [NCI CCR BTEP](https://bioinformatics.ccr.cancer.gov/btep/) on September 4, 2025.
 
 * Example Jupyter Notebook (example.ipynb)
 * Data files
